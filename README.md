@@ -1,6 +1,6 @@
 # OpenAI Chatbot UI on EKS with Jenkins and Terraform
 
-> **Stage 12 of 12 — Career Progression Project**  
+> **Stage 12 of 12 — Career Pro gression Project**  
 > Portfolio project by **Yugandhar Ethamukkala**.
 
 AI application deployment project using Next.js, Docker, Jenkins, Terraform, Amazon EKS, Kubernetes, and security scanning gates.
