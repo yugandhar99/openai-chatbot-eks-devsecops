@@ -1,4 +1,4 @@
-# Op enAI Chatbot UI on EKS with Jenkins and Terraform
+# OpenAI Chatbot UI on EKS with Jenkins and Terraform
 
 > **Stage 12 of 12 — Career Progression Project**  
 > Portfolio project by **Yugandhar Ethamukkala**.
