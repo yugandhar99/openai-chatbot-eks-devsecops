@@ -13,6 +13,7 @@ pipeline{
         stage('Checkout from Git'){
             steps{
                 git branch: 'master', url: 'https://github.com/yugandhar99/openai-chatbot-eks-devsecops.git'
+
             }
         }
         stage('Install Dependencies') {
