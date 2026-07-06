@@ -1,6 +1,6 @@
 import { OpenAIModel } from './openai';
 
-export interface Message {
+export  interface Message {
   role: Role;
   content: string;
 }
