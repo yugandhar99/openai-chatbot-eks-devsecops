@@ -1,4 +1,4 @@
-resource "aws_eks_cluster" "eks-cluster" {
+res ource "aws_eks_cluster" "eks-cluster" {
   name     = var.cluster-name
   role_arn = aws_iam_role.EKSClusterRole.arn
   vpc_config {
