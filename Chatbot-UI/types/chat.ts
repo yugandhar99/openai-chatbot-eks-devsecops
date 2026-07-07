@@ -1,4 +1,4 @@
-imp ort { OpenAIModel } from './openai';
+import { OpenAIModel } from './openai';
 
 export interface Message {
   role: Role;
