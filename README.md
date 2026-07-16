@@ -5,6 +5,7 @@
 
 AI application deployment project using Next.js, Docker, Jenkins, Terraform, Amazon EKS, Kubernetes, and security scanning gates.
 
+
 ## Career Progression Story
 
 AI-enabled DevOps step: I applied DevOps and DevSecOps practices to an AI chatbot application deployed on Kubernetes.
