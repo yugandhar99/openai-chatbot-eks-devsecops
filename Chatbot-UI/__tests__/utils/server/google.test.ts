@@ -4,7 +4,7 @@ import {
   readLimitedText,
 } from '@/utils/server/google';
 import { describe, expect, it } from 'vitest';
-
+ 
 describe('Google SSRF helper behavior', () => {
   it('allows public HTTP and HTTPS URLs without credentials', () => {
     expect(isPublicHTTPURL('https://example.com/article')).toBe(true);
