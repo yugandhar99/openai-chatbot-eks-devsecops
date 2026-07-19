@@ -3,7 +3,6 @@ import { OpenAIModels, OpenAIModelID } from '@/types/openai';
 import { DEFAULT_SYSTEM_PROMPT } from '@/utils/app/const';
 import { it, describe, expect } from 'vitest';
 
-
 import {
   cleanData,
   isExportFormatV1,
