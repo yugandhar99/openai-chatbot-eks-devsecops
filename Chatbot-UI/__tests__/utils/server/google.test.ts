@@ -1,4 +1,4 @@
-import {
+import { 
   cleanSourceText,
   isPublicHTTPURL,
   readLimitedText,
