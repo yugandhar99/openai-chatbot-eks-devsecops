@@ -4,7 +4,7 @@ data "aws_vpc" "vpc" {
     values = [var.vpc-name]
   }
 }
- 
+
 data "aws_internet_gateway" "igw" {
   filter {
     name   = "tag:Name"
