@@ -13,7 +13,7 @@ resource "aws_iam_role" "EKSClusterRole" {
     ]
   })
 }
- 
+
 resource "aws_iam_role" "NodeGroupRole" {
   name = "EKSNodeGroupRole"
   assume_role_policy = jsonencode({
