@@ -4,7 +4,7 @@ properties([
         choice(choices: ['apply', 'destroy'], description: 'Select Terraform action', name: 'Terraform-Action')
     ])
 ])
-
+ 
 pipeline {
     agent any
     stages {
