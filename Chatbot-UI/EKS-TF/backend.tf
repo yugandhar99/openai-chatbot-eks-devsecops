@@ -1,4 +1,4 @@
-terraform { 
+terraform {
   backend "s3" {
     bucket         = "tetris-bucket"
     region         = "us-east-1"
