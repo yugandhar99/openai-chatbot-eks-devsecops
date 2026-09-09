@@ -1,5 +1,5 @@
 terraform {
-  backend "s3" { 
+  backend "s3" {
     bucket         = "tetris-bucket"
     region         = "us-east-1"
     key            = "Chatbot-UI/EKS-TF/terraform.tfstate"
