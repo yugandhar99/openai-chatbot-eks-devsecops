@@ -1,5 +1,5 @@
 variable "vpc-name" {}
-variable "igw-name" {} 
+variable "igw-name" {}
 variable "rt-name2" {}
 variable "subnet-name" {}
 variable "subnet-name2" {}
