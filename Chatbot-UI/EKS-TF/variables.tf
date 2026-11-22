@@ -1,4 +1,4 @@
-variable "vpc-name" {}
+variable "vpc-name" {} 
 variable "igw-name" {}
 variable "rt-name2" {}
 variable "subnet-name" {}
